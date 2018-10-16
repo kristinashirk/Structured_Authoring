@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE catalogue SYSTEM "Structured.dtd">
+
+<catalogue>
+  <course subject="communication">
+    <title>Business Writing</title>
+    <id>59071</id>
+    <format>On Campus</format>
+    <description>Writing poorly in business can reflect negatively on the company you work for and on you. It can also result in lost business. Strong business writing skills enable you to communicate clearly and effectively. To achieve this means knowing how to analyze your audience, getting organized, and practicing your skills. In this class you will learn these skills, as well as learning how to get your point across using appropriate tone, formatting, and language.</description>
+    <instructor>Jeannette Grace</instructor>
+    <start>10/23/18</start>
+    <end>10/30/18</end>
+    <tuition>$150.00</tuition>
+  </course>
+  <course subject="communication">
+    <title>Effective Electronic Presentations</title>
+    <id>58910</id>
+    <format>Online</format>
+    <description>Did you know most electronic presentations are built for the presenter and not the audience? Add impact to your presentations by using the most effective designs. It’s not about the software. It’s about how your audience processes your information. You’ll find simple, key ideas that will maximize your presentation for all learning styles. These ideas you’ll not find anywhere else.</description>
+    <instructor>Fred Bayley</instructor>
+    <start>11/05/18</start>
+    <end>11/30/18</end>
+    <tuition>$195.00</tuition>
+  </course>
+  <course subject="communication">
+    <title>Interpersonal Communication</title>
+    <id>59068</id>
+    <format>On Campus<location>Room P1840</location></format>
+    <description>Misunderstanding. Tension. Frustration.  These are all happening in the workplace and can be resolved if we become better communicators. The best part is, once you become a better communicator others naturally follow. Discover your communication preferences and learn to adapt what and how you communicate for better interactions.</description>
+    <instructor>Jeannette Grace </instructor>
+    <start>11/08/18</start>
+    <end>11/08/18</end>
+    <tuition>$195.00</tuition>
+  </course>
+  <course subject="communication">
+    <title>Leading and Mastering Virtual Meetings</title>
+    <id>59092</id>
+    <format>Online</format>
+    <description>For anyone who leads virtual meetings or wants to become an empowered virtual meeting member, discover the keys to success in mastering virtual meetings.  Get the knowledge and skills to create and lead positive and goal oriented virtual team meetings.You will also learn when not to use virtual meetings.The course also covers how to lead and manage difficult virtual meetings or difficult attendees and how to resolve conflict if it occurs. Come away with skills to enhance your participation and leadership in virtual meetings.</description>
+    <instructor></instructor>
+    <start>10/01/18</start>
+    <end>10/26/18</end>
+    <tuition>$195.00</tuition>
+  </course>
+  <course subject="communication">
+    <title>The Business Plan</title>
+    <id>58854</id>
+    <format>Online</format>
+    <description>This practical, hands-on approach encourages you to immerse yourself in the vision and planning aspects of your business. Focusing on the most critical components of the Business Plan enables you to uncover hidden risks and assess the business from a marketing, management, and financial vantage point.</description>
+    <instructor>Mary Beth Izard</instructor>
+    <start>10/01/18</start>
+    <end>10/26/18</end>
+    <tuition>$195.00</tuition>
+  </course>
+  <course subject="web_design">
+    <title>Wordpress and Content Management Systems </title>
+    <id>58968</id>
+    <format>On Campus</format>
+    <description>Learn the basics of CMS (Content Management Systems) and build your own website in class. Integrate your design skills and actualize them into real publishable work. You will learn to install WordPress, manage a server, customize themes, install plugins and widgets, create posts and content and leave with a foundational understanding of how to create functional websites. Valuable textbook included.</description>
+    <instructor>Grant Chandler</instructor>
+    <start>11/07/18</start>
+    <end>11/07/18</end>
+    <tuition>$175.00</tuition>
+  </course>
+  <course subject="web_design">
+    <title>User Experience (UX) and Accessibility</title>
+    <id>58967</id>
+    <format>On Campus</format>
+    <description>Learn to speak the language of the web designer. This course is geared towards the skills and techniques needed to understand how websites are designed, how to increase engagement on various platforms and how to apply customer feedback to your work. User Experience (UX) and Accessibility practices are a hot topic in today’s digital workplace and can make the difference between a fun website and one that is impossible to use. Exercises will focus on best practices, real-world examples and practical techniques.</description>
+    <instructor>Grant Chandler</instructor>
+    <start>10/24/18</start>
+    <end>10/24/18</end>
+    <tuition>$175.00</tuition>
+  </course>
+  <course subject="web_design">
+    <title>Project Management Processes</title>
+    <id>58882</id>
+    <format>Online</format>
+    <description>Acquire a well-rounded knowledge of the five Project Management Processes relating to the Project Management Body of Knowledge (PMBOK) Guide. This basic information will assist you in learning the beginnings of Project Management, whether you are interested in project management, in a project management field, or in any line of work.   Come away with a solid foundation of the five processes to learn and use when any type of project occurs in your employment arena.</description>
+    <instructor>Christina Mitchell</instructor>
+    <start>10/01/18</start>
+    <end>10/26/18</end>
+    <tuition>$195.00</tuition>
+  </course>
+  <course subject="programming">
+    <title>Intermediate Video Game Design</title>
+    <id>58861</id>
+    <format>Online</format>
+    <description>Worldwide, video game sales including consoles, and online and mobile games are projected to reach $111 billion dollars this year. Mobile games are the fastest-growing segment of the market as more and more people play casual games. By 2019 Price Warehouse predicts social and casual game sales will exceed traditional game sales.  In this intermediate introductory course you will learn the basics of video game design process, learn about the main video game genres, and use a game development application to begin your journey of making games</description>
+    <instructor>Jean Haefner</instructor>
+    <start>10/01/18</start>
+    <end>10/26/18</end>
+    <tuition>$245.00</tuition>
+  </course>
+  <course subject="programming">
+    <title> Introduction to C# Programming</title>
+    <id>58528</id>
+    <format>Online</format>
+    <description>Learn the fundamentals of computer programming with C#, the in-demand and incredibly useful programming language that incorporates the best features of Visual Basic, C++, and Java.</description>
+    <instructor>Mike Orsega</instructor>
+    <start>09/12/18</start>
+    <end>11/02/18</end>
+    <tuition>$115.00</tuition>
+  </course>
+  <course subject="programming">
+    <title> Intermediate Java Programming</title>
+    <id>58550</id>
+    <format>Online</format>
+    <description>Deepen your understanding of the Java programming language, and start writing programs that are more sophisticated and professional. Learn how to save data permanently on a disk by writing it to a sequential data file. See how to read the file to get the data back and process it. Organize information using multiple classes in Java's class hierarchy and inheritance. Explore some of the hundreds of classes that are built into the Java language. Find out how to create GUI applications in Java using tools like windows, menus, buttons, text boxes, check boxes, scroll bars, and other GUI tools.</description>
+    <instructor>Brian Hall</instructor>
+    <start>09/12/18</start>
+    <end>11/02/18</end>
+    <tuition>$115.00</tuition>
+  </course>
+</catalogue>
