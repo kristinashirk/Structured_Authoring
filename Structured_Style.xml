@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<?xml-stylesheet href="Structured.xsl" type="text/xsl" ?>
 <!DOCTYPE catalogue SYSTEM "Structured.dtd">
 
 <catalogue>
@@ -26,7 +26,7 @@
   <course subject="communication">
     <title>Interpersonal Communication</title>
     <id>59068</id>
-    <format>On Campus<location>Room P1840</location></format>
+    <format>On Campus</format>
     <description>Misunderstanding. Tension. Frustration.  These are all happening in the workplace and can be resolved if we become better communicators. The best part is, once you become a better communicator others naturally follow. Discover your communication preferences and learn to adapt what and how you communicate for better interactions.</description>
     <instructor>Jeannette Grace </instructor>
     <start>11/08/18</start>

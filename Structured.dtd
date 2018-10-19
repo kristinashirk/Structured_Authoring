@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<!ELEMENT catalogue (course, title, id, format, description, instructor, start, end, tuition)>
-<!ELEMENT course (#PCDATA)>
+<!ELEMENT catalogue (course+)>
+<!ELEMENT course (title, id, format, description, instructor, start, end, tuition)>
 <!ATTLIST course subject (communication|programming|web_design ) #REQUIRED>
 <!ELEMENT title (#PCDATA)>
 <!ELEMENT id (#PCDATA)>
@@ -11,4 +9,3 @@
 <!ELEMENT start (#PCDATA)>
 <!ELEMENT end (#PCDATA)>
 <!ELEMENT tuition (#PCDATA)>
-]>
