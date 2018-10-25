@@ -3,6 +3,8 @@
 <!DOCTYPE catalogue SYSTEM "Structured.dtd">
 
 <catalogue>
+
+<!--Business and Professional-->
   <course subject="communication">
     <title>Business Writing</title>
     <id>59071</id>
@@ -52,6 +54,58 @@
     <start>10/01/18</start>
     <end>10/26/18</end>
     <tuition>$195.00</tuition>
+  </course>
+ 
+<!--Computers and Technology-->
+  <course subject="computer_basics">
+    <title>Intermediate Mirosoft Word 2016 </title>
+    <id>59116</id>
+    <format>Online</format>
+    <description>Learn the basics of CMS (Content Management Systems) and build your own website in class. Integrate your design skills and actualize them into real publishable work. You will learn to install WordPress, manage a server, customize themes, install plugins and widgets, create posts and content and leave with a foundational understanding of how to create functional websites. Valuable textbook included.</description>
+    <instructor>Wallace Wang</instructor>
+    <start>10/07/18</start>
+    <end>11/23/18</end>
+    <tuition>$129.00</tuition>
+  </course>
+  <course subject="computer_basics">
+    <title>Introduction to Networking </title>
+    <id>58706</id>
+    <format>Online</format>
+    <description>Learn the basics of CMS (Content Management Systems) and build your own website in class. Integrate your design skills and actualize them into real publishable work. You will learn to install WordPress, manage a server, customize themes, install plugins and widgets, create posts and content and leave with a foundational understanding of how to create functional websites. Valuable textbook included.</description>
+    <instructor>David Iseminger</instructor>
+    <start>09/12/18</start>
+    <end>11/02/18</end>
+    <tuition>$115.00</tuition>
+  </course>
+  <course subject="computer_basics">
+    <title>Keyboarding </title>
+    <id>58634</id>
+    <format>Online</format>
+    <description>Learn the basics of CMS (Content Management Systems) and build your own website in class. Integrate your design skills and actualize them into real publishable work. You will learn to install WordPress, manage a server, customize themes, install plugins and widgets, create posts and content and leave with a foundational understanding of how to create functional websites. Valuable textbook included.</description>
+    <instructor>Kathy Pelt</instructor>
+    <start>09/12/18</start>
+    <end>11/02/18</end>
+    <tuition>$109.00</tuition>
+  </course>
+  <course subject="Micorsoft">
+    <title>Microsoft Access 2016 Level 1 </title>
+    <id>58934</id>
+    <format>Online</format>
+    <description>Learn the basics of CMS (Content Management Systems) and build your own website in class. Integrate your design skills and actualize them into real publishable work. You will learn to install WordPress, manage a server, customize themes, install plugins and widgets, create posts and content and leave with a foundational understanding of how to create functional websites. Valuable textbook included.</description>
+    <instructor>Sheila Arnett</instructor>
+    <start>11/26/18</start>
+    <end>11/26/18</end>
+    <tuition>$175.00</tuition>
+  </course>
+  <course subject="Micorsoft">
+    <title>Microsoft Access 2016 Level 2 </title>
+    <id>58936</id>
+    <format>Online</format>
+    <description>Learn the basics of CMS (Content Management Systems) and build your own website in class. Integrate your design skills and actualize them into real publishable work. You will learn to install WordPress, manage a server, customize themes, install plugins and widgets, create posts and content and leave with a foundational understanding of how to create functional websites. Valuable textbook included.</description>
+    <instructor>Sheila Arnett</instructor>
+    <start>11/05/18</start>
+    <end>11/05/18</end>
+    <tuition>$175.00</tuition>
   </course>
   <course subject="web_design">
     <title>Wordpress and Content Management Systems </title>
@@ -113,4 +167,7 @@
     <end>11/02/18</end>
     <tuition>$115.00</tuition>
   </course>
+<!--Healthcare and Medical-->
+<!--Language-->
+<!--Lifestyle-->
 </catalogue>
