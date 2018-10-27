@@ -1,6 +1,6 @@
 <!ELEMENT catalogue (course+)>
 <!ELEMENT course (title, id, format, description, instructor, start, end, tuition)>
-<!ATTLIST course subject (communication|programming|web_design|computer_basics|Microsoft ) #REQUIRED>
+<!ATTLIST course subject (marketing|accounting|communication|programming|web_design|computer_basics|Microsoft|language ) #REQUIRED>
 <!ELEMENT title (#PCDATA)>
 <!ELEMENT id (#PCDATA)>
 <!ELEMENT format (#PCDATA)>

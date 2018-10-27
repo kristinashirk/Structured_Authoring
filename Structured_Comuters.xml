@@ -1,61 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="Structured.xsl" type="text/xsl" ?>
 <!DOCTYPE catalogue SYSTEM "Structured.dtd">
 
 <catalogue>
 
-<!--Business and Professional-->
-  <course subject="communication">
-    <title>Business Writing</title>
-    <id>59071</id>
-    <format>On Campus</format>
-    <description>Writing poorly in business can reflect negatively on the company you work for and on you. It can also result in lost business. Strong business writing skills enable you to communicate clearly and effectively. To achieve this means knowing how to analyze your audience, getting organized, and practicing your skills. In this class you will learn these skills, as well as learning how to get your point across using appropriate tone, formatting, and language.</description>
-    <instructor>Jeannette Grace</instructor>
-    <start>10/23/18</start>
-    <end>10/30/18</end>
-    <tuition>$150.00</tuition>
-  </course>
-  <course subject="communication">
-    <title>Effective Electronic Presentations</title>
-    <id>58910</id>
-    <format>Online</format>
-    <description>Did you know most electronic presentations are built for the presenter and not the audience? Add impact to your presentations by using the most effective designs. It’s not about the software. It’s about how your audience processes your information. You’ll find simple, key ideas that will maximize your presentation for all learning styles. These ideas you’ll not find anywhere else.</description>
-    <instructor>Fred Bayley</instructor>
-    <start>11/05/18</start>
-    <end>11/30/18</end>
-    <tuition>$195.00</tuition>
-  </course>
-  <course subject="communication">
-    <title>Interpersonal Communication</title>
-    <id>59068</id>
-    <format>On Campus</format>
-    <description>Misunderstanding. Tension. Frustration.  These are all happening in the workplace and can be resolved if we become better communicators. The best part is, once you become a better communicator others naturally follow. Discover your communication preferences and learn to adapt what and how you communicate for better interactions.</description>
-    <instructor>Jeannette Grace </instructor>
-    <start>11/08/18</start>
-    <end>11/08/18</end>
-    <tuition>$195.00</tuition>
-  </course>
-  <course subject="communication">
-    <title>Leading and Mastering Virtual Meetings</title>
-    <id>59092</id>
-    <format>Online</format>
-    <description>For anyone who leads virtual meetings or wants to become an empowered virtual meeting member, discover the keys to success in mastering virtual meetings.  Get the knowledge and skills to create and lead positive and goal oriented virtual team meetings.You will also learn when not to use virtual meetings.The course also covers how to lead and manage difficult virtual meetings or difficult attendees and how to resolve conflict if it occurs. Come away with skills to enhance your participation and leadership in virtual meetings.</description>
-    <instructor></instructor>
-    <start>10/01/18</start>
-    <end>10/26/18</end>
-    <tuition>$195.00</tuition>
-  </course>
-  <course subject="communication">
-    <title>The Business Plan</title>
-    <id>58854</id>
-    <format>Online</format>
-    <description>This practical, hands-on approach encourages you to immerse yourself in the vision and planning aspects of your business. Focusing on the most critical components of the Business Plan enables you to uncover hidden risks and assess the business from a marketing, management, and financial vantage point.</description>
-    <instructor>Mary Beth Izard</instructor>
-    <start>10/01/18</start>
-    <end>10/26/18</end>
-    <tuition>$195.00</tuition>
-  </course>
- 
 <!--Computers and Technology-->
   <course subject="computer_basics">
     <title>Intermediate Mirosoft Word 2016 </title>
@@ -167,7 +114,5 @@
     <end>11/02/18</end>
     <tuition>$115.00</tuition>
   </course>
-<!--Healthcare and Medical-->
-<!--Language-->
-<!--Lifestyle-->
+
 </catalogue>

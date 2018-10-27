@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalogue SYSTEM "Structured.dtd">
+
+<catalogue>
+
+<!--Business and Professional-->
+  <course subject="communication">
+    <title>Business Writing</title>
+    <id>59071</id>
+    <format>On Campus</format>
+    <description>Writing poorly in business can reflect negatively on the company you work for and on you. It can also result in lost business. Strong business writing skills enable you to communicate clearly and effectively. To achieve this means knowing how to analyze your audience, getting organized, and practicing your skills. In this class you will learn these skills, as well as learning how to get your point across using appropriate tone, formatting, and language.</description>
+    <instructor>Jeannette Grace</instructor>
+    <start>10/23/18</start>
+    <end>10/30/18</end>
+    <tuition>$150.00</tuition>
+  </course>
+  <course subject="communication">
+    <title>Effective Electronic Presentations</title>
+    <id>58910</id>
+    <format>Online</format>
+    <description>Did you know most electronic presentations are built for the presenter and not the audience? Add impact to your presentations by using the most effective designs. It’s not about the software. It’s about how your audience processes your information. You’ll find simple, key ideas that will maximize your presentation for all learning styles. These ideas you’ll not find anywhere else.</description>
+    <instructor>Fred Bayley</instructor>
+    <start>11/05/18</start>
+    <end>11/30/18</end>
+    <tuition>$195.00</tuition>
+  </course>
+  <course subject="communication">
+    <title>Interpersonal Communication</title>
+    <id>59068</id>
+    <format>On Campus</format>
+    <description>Misunderstanding. Tension. Frustration.  These are all happening in the workplace and can be resolved if we become better communicators. The best part is, once you become a better communicator others naturally follow. Discover your communication preferences and learn to adapt what and how you communicate for better interactions.</description>
+    <instructor>Jeannette Grace </instructor>
+    <start>11/08/18</start>
+    <end>11/08/18</end>
+    <tuition>$195.00</tuition>
+  </course>
+  <course subject="communication">
+    <title>Leading and Mastering Virtual Meetings</title>
+    <id>59092</id>
+    <format>Online</format>
+    <description>For anyone who leads virtual meetings or wants to become an empowered virtual meeting member, discover the keys to success in mastering virtual meetings.  Get the knowledge and skills to create and lead positive and goal oriented virtual team meetings.You will also learn when not to use virtual meetings.The course also covers how to lead and manage difficult virtual meetings or difficult attendees and how to resolve conflict if it occurs. Come away with skills to enhance your participation and leadership in virtual meetings.</description>
+    <instructor></instructor>
+    <start>10/01/18</start>
+    <end>10/26/18</end>
+    <tuition>$195.00</tuition>
+  </course>
+  <course subject="communication">
+    <title>The Business Plan</title>
+    <id>58854</id>
+    <format>Online</format>
+    <description>This practical, hands-on approach encourages you to immerse yourself in the vision and planning aspects of your business. Focusing on the most critical components of the Business Plan enables you to uncover hidden risks and assess the business from a marketing, management, and financial vantage point.</description>
+    <instructor>Mary Beth Izard</instructor>
+    <start>10/01/18</start>
+    <end>10/26/18</end>
+    <tuition>$195.00</tuition>
+  </course>
+  <course subject="marketing">
+    <title>Content Marketing</title>
+    <id>58931</id>
+    <format>Online</format>
+    <description>You have a website, but why will your customers want to come back or buy something or take action? Do you really know who you are selling to? Do you know what you want to say to them? Do you know how you want to say it? Discover ways to identify who your ideal audience is. Learn how to create content that is engaging and purposeful. Find out what you want to say to them. Explore where you want to say it. And finally, find out how you want to say it.</description>
+    <instructor>Michael Weiss</instructor>
+    <start>10/01/18</start>
+    <end>10/26/18</end>
+    <tuition>$195.00</tuition>
+  </course>
+  <course subject="marketing">
+    <title>Enterpreneurial Marketing</title>
+    <id>58855</id>
+    <format>Online</format>
+    <description>Entrepreneurs must know how to effectively market their products and services. Gain a step by step approach to attract and keep customers, all within a realistic budget. With an emphasis on customer-driven marketing decisions, you will learn how to build a strong brand, analyze which tactics to use, and implement your marketing plan. Whether you are starting a business or growing an existing one, you will take away practical marketing tips and tools that you can use to improve your marketing efforts.</description>
+    <instructor>Kathy Nadlman</instructor>
+    <start>11/05/18</start>
+    <end>11/30/18</end>
+    <tuition>$195.00</tuition>
+  </course>
+  <course subject="marketing">
+    <title>Dump The Data, Tell The Story</title>
+    <id>59072</id>
+    <format>On Campus</format>
+    <description>We all have access to mountains of data at our fingertips. What happens, though, when we need to condense the data into meaningful information that will tell a compelling story to your audience? In this interactive workshop, you will learn the skills of synthesizing information into main points and translating those points into stories that create meaning and produce necessary results. Come with your own data and leave with a story that will drive the decisions you need.</description>
+    <instructor>Allison Broeren</instructor>
+    <start>11/08/18</start>
+    <end>11/08/18</end>
+    <tuition>$99.00</tuition>
+  </course>
+  <course subject="marketing">
+    <title>Facebook for Marketing</title>
+    <id>58913</id>
+    <format>Online</format>
+    <description>Find out what goes on behind the scenes on Facebook Pages and how to increase the chances that your message is seen and acted on. Discover new tools and proven techniques to increase business and expand your reach. Discuss how to adapt your marketing message for the Facebook platform and how to integrate Facebook across all marketing areas. This is an advanced class and assumes you have started a Page on Facebook and have some basic knowledge of the platform.</description>
+    <instructor>Nicole Siscaretti</instructor>
+    <start>10/01/18</start>
+    <end>10/26/18</end>
+    <tuition>$245.00</tuition>
+  </course>
+  <course subject="accounting">
+    <title>Basics of Bookkeeping</title>
+    <id>59560</id>
+    <format>Online</format>
+    <description>How do you keep track of the day-to-day financial transactions of a business?  Whether you are looking to advance in your career, or you’re an entrepreneur, (or maybe you are a part of a family business), this course will help you if you are looking to understand the numbers.  The Basics of Bookkeeping course will help you understand, and know how to record, every penny that comes into your business and every penny that goes out of your business.</description>
+    <instructor></instructor>
+    <start>03/04/19</start>
+    <end>03/29/19</end>
+    <tuition>$195.00</tuition>
+  </course>
+   <course subject="accounting">
+    <title>Self-Study: Accounting and Finance for Non-Financial Managers</title>
+    <id>59534</id>
+    <format>On Campus</format>
+    <description>Every successful person in the workplace utilizes financial information to aid effective decision making. Accounting and Finance for Non-Financial Managers explains the financial concepts and accounting processes used in most businesses and will provide practical techniques that will increase your effectiveness and career.
+Get a foundation to understand the seven steps in the accounting cycle and use financial information in decision making. Come away with the knowledge to analyze resource allocation and evaluate financial performance.</description>
+    <instructor>Sharon deFonteny</instructor>
+    <start>09/28/18</start>
+    <end>12/31/18</end>
+    <tuition>$195.00</tuition>
+  </course>
+
+</catalogue>

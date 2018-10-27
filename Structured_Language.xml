@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalogue SYSTEM "Structured.dtd">
+
+<catalogue>
+
+<!--Language-->
+  <course subject="language">
+    <title>American Sign Language Level 1 </title>
+    <id>58995</id>
+    <format>On Campus</format>
+    <description>In this course you'll learn basic skills for conversing in ASL and gain an appreciation for Deaf culture. You will learn to introduce yourself; sign cardinal numbers, fingerspell your name; identify others (by gender, appearance, body position and/or action); ask questions or make statements about others; follow classroom instructions; narrate about your language background; and use different strategies to ask for a sign.</description>
+    <instructor>Mary Zielund</instructor>
+    <start>09/25/18</start>
+    <end>10/30/18</end>
+    <tuition>$109.00</tuition>
+  </course>
+  <course subject="langage">
+    <title>Mandarin Chinese 2 </title>
+    <id>58985</id>
+    <format>On Campus</format>
+    <description>This course is designed for those with little or no knowledge of the Chinese language and culture. Students will acquire basic conversational skills and become acquainted with the civilizations and culture of China.</description>
+    <instructor>Youmei Hou</instructor>
+    <start>11/01/18</start>
+    <end>12/13/18</end>
+    <tuition>$109.00</tuition>
+  </course>
+  <course subject="language">
+    <title>French 1 </title>
+    <id>58989</id>
+    <format>On Campus</format>
+    <description>Learn French phrases that are commonly used at the airport, a hotel, a restaurant, and among your French colleagues. You will practice French vocabulary with the instructor and fellow classmates. You will also be given worksheets and activities for at home practice.</description>
+    <instructor>Rose Mingo </instructor>
+    <start>09/24/18</start>
+    <end>10/29/18</end>
+    <tuition>$109.00</tuition>
+  </course>
+  <course subject="language">
+    <title>French 2 </title>
+    <id>58990</id>
+    <format>On Campus</format>
+    <description>French 2 increases your ability to speak, understand, read and write idiomatic French correctly. Included in this course is a further study of regular and irregular verbs, new tenses, and other grammatical forms all presented in the context of a communicative situation that simultaneously expands the your vocabulary.</description>
+    <instructor>Rose Mingo</instructor>
+    <start>11/05/18</start>
+    <end>12/17/18</end>
+    <tuition>$109.00</tuition>
+  </course>
+  <course subject="language">
+    <title>French 3 </title>
+    <id>58991</id>
+    <format>On Campus</format>
+    <description>Continue with your French learning in this next level class of our French series. You will continue learning the present, past and future forms of verbs, understand and know the difference between irregular and regular verbs, and understand the conjugation of verbs. You will also review possessive adjectives and learn possessive and relative pronouns. The vocabulary covered includes objects in the home, describing a person, and describing feelings. Worksheets are available to supplement individual and group learning.</description>
+    <instructor>Rose Mingo</instructor>
+    <start>01/07/19</start>
+    <end>02/25/19</end>
+    <tuition>$109.00</tuition>
+  </course>
+  <course subject="language">
+    <title>Spanish for Medical Professionals </title>
+    <id>588875</id>
+    <format>Online</format>
+    <description>Are you frustrated by the communication gap that can occur between you and your Spanish-speaking patients? If you answered yes, this Spanish class - designed specifically for healthcare professionals - will help you bridge that gap. You will practice the basic, practical language skills needed to effectively communicate with your Spanish-speaking patients and their families. You will learn the basics of the language, gain an understanding of the culture, and know how to ask the questions crucial to quality healthcare.</description>
+    <instructor>Cristina Sempé</instructor>
+    <start>09/04/18</start>
+    <end>10/26/18</end>
+    <tuition>$290.00</tuition>
+  </course>
+  <course subject="language">
+    <title>Hiragana and Katakana Learning</title>
+    <id>59475</id>
+    <format>On Campus</format>
+    <description>Learn how to read and write the most essential Japanese phonetic alphabet, Hiragana and Katakana, for your comprehensive skills before starting JLPT.</description>
+    <instructor>Michiko Dressen</instructor>
+    <start>10/03/18</start>
+    <end>10/31/18</end>
+    <tuition>$135.00</tuition>
+  </course>
+  <course subject="language">
+    <title>Japanese 1</title>
+    <id>58979</id>
+    <format>On Campus</format>
+    <description>In this class, a brief history of the Japanese language and the difference between English and Japanese are explained. You will learn useful expressions, be-verb sentences, counting, time, money, and adjectives. By the end of this class, you will be able to introduce yourself and friends to others, go shopping, and know 20 Kanji characters.</description>
+    <instructor>Michiko Dressen</instructor>
+    <start>10/04/18</start>
+    <end>11/08/18</end>
+    <tuition>$135.00</tuition>
+  </course>
+  <course subject="language">
+    <title>Japanese 2</title>
+    <id>58980</id>
+    <format>On Campus</format>
+    <description>This class will enable you to use action verbs (eat, see, listen, write, etc.), motion verbs (go, come, etc.) and state the existence of people and things. You will be able to explain your everyday activities - what you do, where you go, what/who are there, etc. And 20 new Kanji characters are introduced.</description>
+    <instructor>Michiko Dressen</instructor>
+    <start>11/15/18</start>
+    <end>12/20/18</end>
+    <tuition>$109.00</tuition>
+  </course>
+  <course subject="language">
+    <title>Instant Italian</title>
+    <id>58810</id>
+    <format>Online</format>
+    <description>This dynamic course will teach you how to express yourself comfortably in Italian. You'll learn practical, everyday words and phrases that will make your stay in Italy more enjoyable. You'll read, hear, and practice dialogues based on typical situations that you're likely to encounter while staying in Italy. The dialogues and follow-up exercises of each lesson will teach you to communicate in Italian in a wide variety of settings. You'll be surprised by how quickly and easily you can learn many useful expressions in Italian!</description>
+    <instructor>Robert Bertold</instructor>
+    <start>09/12/18</start>
+    <end>11/02/18</end>
+    <tuition>$109.00</tuition>
+  </course>
+  <course subject="language">
+    <title>Russian 2</title>
+    <id>58987</id>
+    <format>On Campus</format>
+    <description>This course is a continuation of Russian Level 1. You will further develop your Russian language skills through peer-to-peer interaction and dialog. Students will learn about Russian traditions and holidays, and how to survive a night out on the town. Russia is famous for its parties—the biggest and most important of which take place on New Year’s Eve.</description>
+    <instructor>Olga Kedrowski</instructor>
+    <start>11/06/18</start>
+    <end>12/11/18</end>
+    <tuition>$109.00</tuition>
+  </course>
+
+</catalogue>
